@@ -1,4 +1,5 @@
 def sayHello(inputTest)
+	inputTest.
 	return "Hello " + inputTest
 end
 #Say hello to our ruby programmer
